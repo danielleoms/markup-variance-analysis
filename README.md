@@ -4,9 +4,8 @@ Dashboard de Business Intelligence desenvolvido para analisar a **diferença ent
 
 ---
 
-## 🖥️ Visualização do Dashboard
-
-![Dashboard de Variação de Markup](images/variacao-markup.png)
+🔗 **Acesse o dashboard:**  
+### 🚀 [Abrir Dashboard](https://danielleoms.github.io/markup-variance-analysis/)
 
 ---
 
